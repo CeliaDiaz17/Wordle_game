@@ -7,7 +7,6 @@ def elegir_palabra():
 
 def juego_wordle():
     palabra = elegir_palabra()
-    #print(palabra)
     intentos = 5
         
     print("Bienvenido/a a Wordle!")
